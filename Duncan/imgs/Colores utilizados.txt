@@ -1,0 +1,21 @@
+Colores utilizados
+
+Fondo de inicio y generales:
+rojo: #C20000 				//Caja de años
+amarillo: #FFB100
+naranja: #FF4900				//Caja de categorías
+Café: 451908
+Letritas amarillas: #FFCD5F
+Azúl fuerte: #1800AB
+Verde: #1BAA06
+
+Colores en el logo:
+amarillo: #EA7E16
+rojo: #EF3220
+piel: #F2C07C
+rosa: #F79B9B
+naranja: #DC5827
+negro: #002B41
+blanco: #FFFFFF
+
+Algunos elementos son meramente de canva, no puedo colocarlos.
