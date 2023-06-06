@@ -81,6 +81,7 @@ body {
       width: 100%;
       display: block;
       position: relative;
+      font-family: "Chewy", cursive;
   }
   
   #header-hero .header-bg {
@@ -229,7 +230,7 @@ body {
   
   #summer-collection .container .sc-content {
       width: 60%;
-      padding-top: 3.4rem;
+      padding-top: 3.2rem;
       padding-right: 3rem;
       padding-bottom: 2rem;
   }
