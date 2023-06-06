@@ -109,8 +109,8 @@ body {
   #header-hero .header-content p.heading-1 {
       text-transform: uppercase;
       margin: 0 auto;
-      font-family: "Lato", sans-serif;
-      font-size: 1.5rem;
+      font-family: "Sniglet", sans-serif;
+      font-size: 2.5rem;
       font-weight: 500;
       margin-bottom: 2vw;
       padding-top: 9vw;
@@ -118,8 +118,8 @@ body {
   
   #header-hero .header-content h1 {
       margin: 0 auto;
-      font-family: "Lato", sans-serif;
-      font-size: 3rem;
+      font-family: "Chewy", cursive;
+      font-size: 5rem;
       font-style: italic;
       text-transform: uppercase;
       margin-bottom: 2.4vw;
@@ -132,7 +132,7 @@ body {
   #header-hero .header-content p.description {
       margin: 0 auto;
       width: 50%;
-      font-family: Cambria;
+      font-family: "Sniglet", sans-serif;
       font-size: 1.4rem;
       font-style: italic;
       margin-bottom: 5vw;
